@@ -1,0 +1,70 @@
+3
+3
+Seoul
+Suwon
+Daejeon
+3
+2
+0949 Seoul
+1006 Suwon
+2
+1325 Seoul
+1550 Daejeon
+2
+1205 Suwon
+1411 Daejeon
+0800
+Seoul
+Daejeon
+4
+Seoul
+Suwon
+Daejeon
+Busan
+6
+2
+0749 Seoul
+1006 Suwon
+2
+0959 Seoul
+1006 Suwon
+2
+1325 Seoul
+1550 Daejeon
+2
+1205 Suwon
+1411 Daejeon
+2
+1500 Daejeon
+1985 Busan
+2
+1105 Suwon
+2011 Busan
+0600
+Seoul
+Busan
+4
+Seoul
+Suwon
+Daejeon
+Busan
+5
+2
+0600 Seoul
+0730 Suwon
+3
+0800 Seoul
+1020 Daejeon
+1230 Busan
+2
+0700 Seoul
+0930 Daejeon
+2
+0900 Daejeon
+1120 Busan
+2
+0740 Suwon
+0850 Daejeon
+0550
+Seoul
+Busan
